@@ -2,3 +2,43 @@
   -webkit-appearance: none;
   margin: 0;
 }
+.melcore-spinner {
+    height: 34px;
+    display: inline-block;
+    background-color: #32c5d2;
+    border-radius: 5px !important;
+}
+.melcore-spinner .minus{
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+    text-align: center;
+}
+.melcore-spinner input{
+    height: 34px;
+    padding: 5px;
+    font-size: 16px;
+    width: 30px;
+    line-height: 1.42857;
+    color: #4d6b8a;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #c2cad8;
+    text-align: center;
+    border-left: none;
+    font-weight: 600;
+    border-right: none;
+}
+.melcore-spinner .plus{
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    font-size: 20px;
+    vertical-align: middle;
+    font-weight: 600;
+    cursor: pointer;
+    text-align: center;
+}
