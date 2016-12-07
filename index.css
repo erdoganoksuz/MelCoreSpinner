@@ -3,6 +3,9 @@
   -webkit-appearance: none;
   margin: 0;
 }
+input[type=number] {
+    -moz-appearance:textfield;
+}
 .melcore-spinner {
     height: 34px;
     display: inline-block;
