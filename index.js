@@ -2,7 +2,6 @@
     var $area1 = $(".area1").melCoreSpinner();
 
     var $area2 = $(".area2").melCoreSpinner({
-            Max:3, 
             DefaultValue: 1 
         });
 
