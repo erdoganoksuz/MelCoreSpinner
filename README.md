@@ -1,2 +1,2 @@
 # MelCoreSpinner
-Simple and Easy jQuery number spinner
+Easy to use jQuery number spinner
